@@ -1,0 +1,10 @@
+{
+	"dbURL" : "mongodb://chatcatuser:mychatcat@ds047307.mongolab.com:47307/chatcat",
+	"sessionSecret" : "ASKJDLAJD234234LKJ23423423JL",
+	"fb" : {
+		"appID" : "328577120650792",
+		"appSecret" : "0fa90765335f76c2aeb26f8f3674a24b",
+		"callbackURL" : "http://chatday.herokuapp.com/auth/facebook/callback"
+	},
+	"host" : "http://chatday.herokuapp.com"
+}
